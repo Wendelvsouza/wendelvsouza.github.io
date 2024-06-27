@@ -136,4 +136,4 @@ feed:
 deploy:
   type: ''
   
-root: "ScientistsNotes"
+root: ""
